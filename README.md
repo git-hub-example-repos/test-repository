@@ -1,2 +1,2 @@
 This repository is for practicing AWS Java Developer project
-Added some text here
+Added some text here. some more text.
